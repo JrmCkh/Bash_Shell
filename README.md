@@ -1,3 +1,6 @@
+# Project Description
+The goal of this project is to implement and test Bash (Unix Shell). It encompasses the concepts and practices of software testing and debugging, including unit testing, integration testing, system testing, and the use of automated testing tools.
+
 # Setup Project Structure
 1. Go to [File] > [Project Structure]... (or press _Ctrl+Alt+Shift+S_)\
    ![Screenshot of File to Project Structure](img/file-to-project-structure-screenshot.png)
